@@ -1,2 +1,2 @@
-# oops-with-python
+# OPPS-with-python
 class and object
