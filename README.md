@@ -1,2 +1,2 @@
 # oops-with-python
-problem solving
+class and object
